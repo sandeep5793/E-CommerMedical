@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/custombutton"
+        android:state_enabled="true" />
+
+    <item android:drawable="@drawable/custombuttondisabled"
+        android:state_enabled="false"  />
+</selector>

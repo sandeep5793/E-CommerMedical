@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>479720515235-ke24j5tv6r1p3bel81q33225ob5nm8bc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.479720515235-ke24j5tv6r1p3bel81q33225ob5nm8bc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDWdniPVtR-gZirl7F5GI7E_ykvqKVzbc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>479720515235</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arascamedicalgroup</string>
+	<key>PROJECT_ID</key>
+	<string>arasca-medical</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arasca-medical.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:479720515235:ios:e105abf45edf45ca55c116</string>
+	<key>DATABASE_URL</key>
+	<string>https://arasca-medical.firebaseio.com</string>
+</dict>
+</plist>

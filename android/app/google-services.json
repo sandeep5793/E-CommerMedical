@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479720515235",
+    "firebase_url": "https://arasca-medical.firebaseio.com",
+    "project_id": "arasca-medical",
+    "storage_bucket": "arasca-medical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479720515235:android:ecf3cf335a8eb3d755c116",
+        "android_client_info": {
+          "package_name": "com.arascamedicalgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479720515235-f1eqegv2jbrrspc86n7bddq5euhhsmbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcMNwmXQ1NS0yvpoifbtNo0GA9V0yN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479720515235-f1eqegv2jbrrspc86n7bddq5euhhsmbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479720515235-c55bef7na7uja6gmtgruo1t18ie92isb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arascamedical"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
